@@ -4,9 +4,10 @@
 # Worker RAM adjusted
 	
 	Increasing worker RAM inclreases the memory allocated to node manager and hence memory intense applications can benefit.
+	OS Level memory can be reduced. 
 	
 # work load factor
 
 	
-	workloadfactor = vcores/spindles
+	I think workloadfactor = vcores/spindles
 	Increasing vcores increases workloadfactor
