@@ -51,6 +51,8 @@
 	-rw-r--r--.  1 root root  630 Nov 29 18:12 CentOS-Media.repo
 	-rw-r--r--.  1 root root 1331 Nov 29 18:12 CentOS-Sources.repo
 	-rw-r--r--.  1 root root 2893 Nov 29 18:12 CentOS-Vault.repo
+	
+## These were not to be installed as part of the platform
 	-rw-r--r--   1 root root 1416 Sep 12  2016 mysql-community.repo
 	-rw-r--r--   1 root root 1440 Sep 12  2016 mysql-community-source.repo
 	
