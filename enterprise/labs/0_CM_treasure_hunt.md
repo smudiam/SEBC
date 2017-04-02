@@ -20,9 +20,10 @@
 * Name all the roles that make up the Hive service
 
 	HIVEMETASTORE, HIVESERVER2 
-[MFE: Also the Gateway and WebHCatalog]
+<br>[MFE: Also the Gateway and WebHCatalog]</br>
 
 * What steps must be completed before integrating Cloudera Manager with Kerberos?
 
 	Identify the key distribution center (KDC) that will be used for autnetication that is going to be integrated with Kerberos
-[There are other prerequisites listed by the wizard. It is worth knowing them because some customers believe starting the wizard is a point of no return, and so will not see these requirements]	
+	
+<br>[There are other prerequisites listed by the wizard. It is worth knowing them because some customers believe starting the wizard is a point of no return, and so will not see these requirements]</br>
