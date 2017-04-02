@@ -31,3 +31,5 @@
 	[domain_realm]
 	   .example.com = SMUDIAM.COM
 	   example.com = SMUDIAM.COM
+	   
+#### Did this actually work? Your [domain_realm] configuration would not allow a client to find your KDC or any remote services.
